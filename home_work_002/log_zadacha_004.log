@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-19T19:10:35.942587Z</date>
+  <millis>1671477035942</millis>
+  <nanos>587000</nanos>
+  <sequence>0</sequence>
+  <logger>zadacha_004</logger>
+  <level>INFO</level>
+  <class>zadacha_004</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>433.0 - 312.0 = 121.0</message>
+</record>
+</log>
